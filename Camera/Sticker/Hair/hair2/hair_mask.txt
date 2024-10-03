@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "hair_11_7.png",
+  "ratio_face": "11/7",
+  "size_mask": {
+    "with": 236,
+    "height": 199
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 33
+  },
+  "point_draw": "left"
+}

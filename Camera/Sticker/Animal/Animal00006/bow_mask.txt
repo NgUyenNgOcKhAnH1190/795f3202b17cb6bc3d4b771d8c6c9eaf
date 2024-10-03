@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "bow_4_7face.png",
+  "ratio_face": "4/7",
+  "size_mask": {
+    "with": 109,
+    "height": 65
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 18
+  },
+  "point_draw": "left"
+}

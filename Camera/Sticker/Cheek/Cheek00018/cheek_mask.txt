@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "cheek_5_7.png",
+  "ratio_face": "5/7",
+  "size_mask": {
+    "with": 106,
+    "height": 128
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "NOSE_BRIDGE",
+    "point": 1
+  },
+  "point_draw": "left"
+}

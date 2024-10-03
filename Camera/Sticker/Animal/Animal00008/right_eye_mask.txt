@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "right_eye_2_7face.png",
+  "ratio_face": "2/7",
+  "size_mask": {
+    "with": 53,
+    "height": 74
+  },
+  "point_mask": 7,
+  "line": {
+    "type": "RIGHT_EYE",
+    "point": 8
+  },
+  "point_draw": "right"
+}

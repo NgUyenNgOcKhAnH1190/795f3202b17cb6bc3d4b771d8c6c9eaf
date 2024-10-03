@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "right_ear_3_7face.png",
+  "ratio_face": "3/7",
+  "size_mask": {
+    "with": 202,
+    "height": 129
+  },
+  "point_mask": 7,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 7
+  },
+  "point_draw": "right"
+}

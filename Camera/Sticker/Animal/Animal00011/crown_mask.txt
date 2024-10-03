@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "crow_6_7face.png",
+  "ratio_face": "6/7",
+  "size_mask": {
+    "with": 96,
+    "height": 163
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 35
+  },
+  "point_draw": "left"
+}

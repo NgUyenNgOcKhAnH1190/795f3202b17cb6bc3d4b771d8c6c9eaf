@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "horn_4_7face.png",
+  "ratio_face": "4/7",
+  "size_mask": {
+    "with": 89,
+    "height": 174
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 35
+  },
+  "point_draw": "left"
+}

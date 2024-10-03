@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "tongue_2_7.png",
+  "ratio_face": "2/7",
+  "size_mask": {
+    "with": 103,
+    "height": 43
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "LOWER_LIP_TOP",
+    "point": 4
+  },
+  "point_draw": "left"
+}

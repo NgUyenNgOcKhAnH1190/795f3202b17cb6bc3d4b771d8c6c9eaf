@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "hair_15_14.png",
+  "ratio_face": "15/14",
+  "size_mask": {
+    "with": 176,
+    "height": 371
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 33
+  },
+  "point_draw": "left"
+}

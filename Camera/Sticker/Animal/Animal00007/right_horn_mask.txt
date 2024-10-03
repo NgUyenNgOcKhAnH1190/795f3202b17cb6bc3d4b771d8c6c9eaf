@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "right_horn_5_14_face.png",
+  "ratio_face": "5/14",
+  "size_mask": {
+    "with": 160,
+    "height": 190
+  },
+  "point_mask": 7,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 2
+  },
+  "point_draw": "right"
+}

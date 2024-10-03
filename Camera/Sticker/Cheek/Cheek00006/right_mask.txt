@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "right_2_7.png",
+  "ratio_face": "2/7",
+  "size_mask": {
+    "with": 172,
+    "height": 137
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 9
+  },
+  "point_draw": "left"
+}

@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "eye_1_1.png",
+  "ratio_face": "1/1",
+  "size_mask": {
+    "with": 104,
+    "height": 92
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "NOSE_BRIDGE",
+    "point": 0
+  },
+  "point_draw": "left"
+}

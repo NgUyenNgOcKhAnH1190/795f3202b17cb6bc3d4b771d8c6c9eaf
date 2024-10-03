@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "left_cheek_2_7.png",
+  "ratio_face": "2/7",
+  "size_mask": {
+    "with": 114,
+    "height": 83
+  },
+  "point_mask": 7,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 27
+  },
+  "point_draw": "right"
+}

@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "eye_1_20.png",
+  "ratio_face": "1/20",
+  "size_mask": {
+    "with": 571,
+    "height": 240
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 8
+  },
+  "point_draw": "left"
+}

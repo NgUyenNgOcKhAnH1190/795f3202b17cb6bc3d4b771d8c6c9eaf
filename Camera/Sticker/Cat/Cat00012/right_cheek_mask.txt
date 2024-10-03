@@ -1,0 +1,14 @@
+{
+  "link_bitmap": "right_cheek_1_10.png",
+  "ratio_face": "1/10",
+  "size_mask": {
+    "with": 295,
+    "height": 183
+  },
+  "point_mask": 5,
+  "line": {
+    "type": "FACE_OVAL",
+    "point": 9
+  },
+  "point_draw": "left"
+}
